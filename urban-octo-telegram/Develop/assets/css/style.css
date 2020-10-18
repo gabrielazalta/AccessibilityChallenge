@@ -51,6 +51,7 @@ p {
 }
 /* Header Style End */
 
+/* Hero Style Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,7 +60,10 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Style End */
+
 /* Horizontal Banner Style Start */
+
 .banner-left {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +124,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
 /* Benefit Style End */
 
 /* Footer Style Start */
