@@ -8,7 +8,7 @@ Horiseon Website's code has been refactored to be more accesible per the clients
 * CSS
 
 ## Website
-https://gabrielazalta.github.io/AccessibilityChallenge/code/
+https://gabrielazalta.github.io/AccessibilityChallenge/
 
 
 ## Contribution
